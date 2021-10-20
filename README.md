@@ -2,7 +2,7 @@
 
 ## This is a respository for Data Mining and Big Data topics
 
-### Datos Academicos 📖
+### Datos Académicos 📖
 
 - **Institución:** Universidad Nacional San Antonio Abad del Cusco
 - **Facultad:** Facultad de ingeniería eléctrica, electrónica, informática y mecánica
